@@ -761,32 +761,3 @@ li#about:hover, li#apply:hover, li#contact:hover, li#login:hover {
 #div_participant_count > div > div {
 	margin: 0px 0.5vw;
 }
-
-#index_body {
-	background-color: red;
-	margin: 0;
-}
-
-#index_body div {
-	margin: 35vh;
-}
-
-#index_header {
-	text-align: center;
-	font-size: 150px;
-}
-
-#index_link {
-	display: block;
-	width: 200px;
-	height: 50px;
-	background-color: white;
-	
-	text-decoration: none;
-	color: red;
-	font-size: 20px;
-	text-align: center;
-	padding: 12px;
-	
-	margin: 15vh auto;
-}
