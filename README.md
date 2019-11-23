@@ -2,4 +2,5 @@
 
 A website that allows the enrolment for the Duke of Edinburgh awards programme.  
 A login system is available to enable the users to book for activities once they are enrolled.  
+Details entered are validated during the enrolment and login process.  
 The website cannot be hosted by GitHub due to not being static. :(
